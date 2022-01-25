@@ -2,22 +2,22 @@
 High octane Sendit spammer is coded in python, it is using http post requests making it much faster than my previous spammer coded in python but using selenium
 
 ### What is Sendit?
-Sendit is a popular snapchat integrated program allowing users to recieve anonymous messages from others, it has a web based element where if people put the Sendit link on there snapchat story or send it to someone it allows them to send anonymous messages to the app through the web interface.
+Sendit is a popular snapchat integrated program allowing users to receive anonymous messages from others, it has a web based element where if people put the Sendit link on there snapchat story or send it to someone it allows them to send anonymous messages to the app through the web interface.
 
 ## About
-The spammer has 3 different options (all compatible with eachother)
-1. Threaded - makes the process use multiple threads and will ask later how many threads to use (i reckomend not going too high as it will work well 50 is a good number but 100 and higher also works).
+The spammer has 3 different options (all compatible with each other)
+1. Threaded - makes the process use multiple threads and will ask later how many threads to use (i recommend not going too high as it will work well 50 is a good number but 100 and higher also works).
 
 2. Random sticker - allows you to choose weather to use random stickers (more about stickers later) or the 14 provided stickers.
 
-3. From file - weather or not you want to import the recipient identity(s) from a file if so enable it and the program will make the file ` idlist.csv ` this is were you put your recipient identity(s) newline identifys a seperate identity.
+3. From file - weather or not you want to import the recipient identity(s) from a file if so enable it and the program will make the file ` idlist.csv ` this is were you put your recipient identity(s) newline identifies a separate identity.
 
-## what are stickers and recipient identitys?
-### Stickers are the headline for the Sendit these are not connected to the specific Sendit so you can make custom ones with custom text even if the recipient didnt label it that.
+## what are stickers and recipient identities?
+### Stickers are the headline for the Sendit these are not connected to the specific Sendit so you can make custom ones with custom text even if the recipient didn’t label it that.
 ### Stickers look like this: 
 ![sticker](https://user-images.githubusercontent.com/83868916/150907225-f49dfdd3-b3c0-42a1-8ecd-c702026437ff.png)
 
-### Recipient ids are like the persons identifier so that the Sendit api knows were to send-it too.
+### Recipient ids are like the persons identifier so that the Sendit api knows where to send-it too.
 ## How to get recipient ids and sticker ids:
 ### Open the sendit url on your phone from snapchat and copy it over to your computer (this next part needs to be done on a computer):
 ![all](https://user-images.githubusercontent.com/83868916/127986071-4a739001-bfdf-4ef5-bf8d-0a5a4ea90f42.png)
@@ -44,17 +44,12 @@ However it currently only sends normal (if you provide a non normal mode sticker
 If I get enough requests for me to add other sticker modes I will but feel free to fork and improve it anyway you want including adding options for other stickers if you want. :)
 
 ## Disclaimer:
-This program must only be used for educational purpose **only** any malitious use is not condoned by me and I take no responsibility for illegal / unethical use cases.
+This program must only be used for educational purpose **only** any malicious use is not condoned by me and I take no responsibility for illegal / unethical use cases.
 
 ## Errors:
 If you have any errors feel free to open a Issue or contact me on discord `omtoi 101#6969`.
 
 ### Also:
-Recomended to use threading as it makes it so much faster and so much more efficient.
+Recommended to use threading as it makes it so much faster and so much more efficient.
 
-Threading 1000 and above seems to completely brake sendit while spamming ;)
-
-
-
-
-
+Threading 1000 and above seems to completely break sendit while spamming ;)
