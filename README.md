@@ -1,4 +1,4 @@
-# High-Octone-Sendit-Spammer
+# High-Octane-Sendit-Spammer
 High octane Sendit spammer is coded in python, it is using http post requests making it much faster than my previous spammer coded in python but using selenium
 
 ### What is Sendit?
