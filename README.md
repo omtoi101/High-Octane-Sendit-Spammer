@@ -49,8 +49,10 @@ This program must only be used for educational purpose **only** any malitious us
 ## Errors:
 If you have any errors feel free to open a Issue or contact me on discord `omtoi 101#6969`.
 
-### Recomended to use threading as it makes it so much faster and so much more efficient.
+### Also:
+Recomended to use threading as it makes it so much faster and so much more efficient.
 
+Threading 1000 and above seems to completely brake sendit while spamming ;)
 
 
 
