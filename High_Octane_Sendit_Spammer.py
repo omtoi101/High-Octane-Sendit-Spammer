@@ -96,11 +96,6 @@ def getdata():
         custom_sticker = None
     datalist = {"message" : message, "recipient_identity" : recipient_identity, "thread_amount" : thread_amount, "custom_sticker" : custom_sticker}
     return datalist
-    # message = 'hi'
-    #author_shadow_token = 'a5f367a7-f909-4dec-b26c-74f5eac361cd'
-    #reply_post_id = 'dffff61d-2281-44dc-a14d-e90ca561e5e2'
-    #sticker_id = '778b025a-3506-4a8e-b094-a04b0f915327'
-    #recipient_identity = 'f8100df0-64af-4e27-9a2b-8c1f54e64209'
 
 thinglist = [
 "afcbd83d-3246-4bc3-85d5-9e12a78a5583",
