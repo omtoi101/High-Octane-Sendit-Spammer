@@ -39,7 +39,7 @@ The spammer has 3 different options (all compatible with each other)
 
 ## Compatibility:
 This Sendit spammer is compatible with all different Sendit modes eg: kiss marry block, this or that, name for rate.
-However it currently only sends normal (if you provide a non normal mode sticker id it will probably brake as they require different data values in the json payload).
+However it currently only sends normal (if you provide a non normal mode sticker id it will probably break as they require different data values in the json payload).
 
 If I get enough requests for me to add other sticker modes I will but feel free to fork and improve it anyway you want including adding options for other stickers if you want. :)
 
@@ -47,7 +47,7 @@ If I get enough requests for me to add other sticker modes I will but feel free 
 This program must only be used for educational purpose **only** any malicious use is not condoned by me and I take no responsibility for illegal / unethical use cases.
 
 ## Errors:
-If you have any errors feel free to open a Issue or contact me on discord `omtoi 101#6969`.
+If you have any errors feel free to open a Issue or contact me on discord `omtoi 101#7794`.
 
 ### Also:
 Recommended to use threading as it makes it so much faster and so much more efficient.
