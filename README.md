@@ -52,4 +52,5 @@ If you have any errors feel free to open a Issue or contact me on discord `omtoi
 ### Also:
 Recommended to use threading as it makes it so much faster and so much more efficient.
 
-Threading 1000 and above seems to completely break sendit while spamming ;)
+- Threading 1000 and above seems to completely break sendit while spamming ;)
+contacted sendit and the issue on the previous line is now fixed because it was dosing sendits servers, they have now implemented a rate limit 
